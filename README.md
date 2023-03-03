@@ -2,9 +2,9 @@
 
 ## 📚 Projet Scolaire | Jeu mobile unity
 
-Janvier 2023
+Janvier-Février 2023
 
-Groupe : Juliette & Brice.
+Groupe : Juliette & Brice + Flavien.
 
 
 ### 📌 Consignes du projet : 
@@ -18,7 +18,7 @@ Doit contenir:
  * Un écran de fin
  * Un niveau au minimum
 
-Le projet doit être exporté sur mobile
+Le projet doit être exporté sur mobile.
 
 ### 💻 Applications et langages utilisés :
 
