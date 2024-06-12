@@ -4,7 +4,7 @@
 
 Janvier-Février 2023
 
-Groupe : Juliette & Brice + Flavien.
+Groupe : Juliette & Flavien.
 
 
 ### 📌 Consignes du projet : 
